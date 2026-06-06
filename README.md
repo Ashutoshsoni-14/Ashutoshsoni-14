@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Ashutosh Soni
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm Ashutosh Soni
 
-### Full Stack Developer | MERN Stack Enthusiast | DSA Problem Solver
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&color=00FF7F&center=true&vCenter=true&width=950&lines=500%2B+LeetCode+Problems+Solved;Full+Stack+MERN+Developer;Building+Real-World+Web+Applications;Open+to+Software+Development+Internships" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=500%2B+LeetCode+Problems+Solved;Full+Stack+MERN+Developer;Building+Real-World+Web+Applications;Passionate+About+Problem+Solving;Open+to+Software+Development+Internships" />
+</div>
 
 <br>
 
@@ -16,7 +16,7 @@
 
 ## 🚀 Quick Highlights
 
-* 🎓 Third-Year B.Tech Computer Science Student
+* 🎓 Final-Year B.Tech Computer Science Student
 * 💻 Full Stack MERN Developer
 * 🧠 Solved 500+ LeetCode Problems
 * 🚀 Built Multiple Web Applications
@@ -45,64 +45,7 @@ I enjoy turning ideas into real-world products and learning technologies that he
 
 ---
 
-## 🏆 Featured Projects
 
-### 🤖 LeetCode AI Mentor
-
-An AI-powered coding mentor that helps users understand coding problems, receive guidance, and improve their problem-solving abilities.
-
-**Tech Stack:** React • Node.js • Express • MongoDB
-
----
-
-### 🌐 Personal Portfolio
-
-A modern portfolio website showcasing my projects, technical skills, achievements, and development journey.
-
-🔗 Portfolio:
-https://personal-portfolio-lemon-alpha-68.vercel.app/
-
----
-
-### 💰 Expense Tracker
-
-A full-stack expense management application for tracking personal finances and managing transactions efficiently.
-
----
-
-### 📺 YouTube Clone
-
-A responsive YouTube-inspired application with modern UI and seamless user experience.
-
----
-
-## 🧠 Problem Solving
-
-<div align="center">
-
-### 💻 LeetCode
-
-# 500+ Problems Solved
-
-🔗 Profile:
-https://leetcode.com/u/Ashutosh_soni14/
-
-</div>
-
-### Topics Covered
-
-* Arrays & Strings
-* Binary Search
-* Linked Lists
-* Stacks & Queues
-* Trees & BST
-* Graphs
-* Dynamic Programming
-* Greedy Algorithms
-* Sliding Window
-* Backtracking
-
----
 
 ## 📊 GitHub Statistics
 
@@ -130,23 +73,10 @@ https://leetcode.com/u/Ashutosh_soni14/
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ashutoshsoni-14&theme=algolia&row=1&column=7" />
-
-</div>
 
 ---
 
-## 🎯 Current Goals
 
-* Build Industry-Level MERN Projects
-* Strengthen Backend Development Skills
-* Learn System Design Fundamentals
-* Contribute to Open Source
-* Secure a Software Development Internship
 
 ---
 
