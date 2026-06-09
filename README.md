@@ -61,7 +61,7 @@ I enjoy turning ideas into real-world products and learning technologies that he
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutoshsoni-14&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Ashutoshsoni-14&theme=tokyonight&hide_border=true"/>
 
 </div>
 
