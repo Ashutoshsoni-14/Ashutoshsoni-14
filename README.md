@@ -18,7 +18,7 @@
 
 * 🎓 Final-Year B.Tech Computer Science Student
 * 💻 Full Stack MERN Developer
-* 🧠 Solved 500+ LeetCode Problems
+* 🧠 Solved 700+ LeetCode Problems
 * 🚀 Built Multiple Web Applications
 * 🌱 Continuously Learning & Improving
 * 🎯 Actively Seeking Software Development Internships
