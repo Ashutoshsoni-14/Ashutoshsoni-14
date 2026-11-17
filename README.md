@@ -2,7 +2,7 @@
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm Ashutosh Soni
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&color=00FF7F&center=true&vCenter=true&width=950&lines=500%2B+LeetCode+Problems+Solved;Full+Stack+MERN+Developer;Building+Real-World+Web+Applications;Open+to+Software+Development+Internships" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&color=00FF7F&center=true&vCenter=true&width=950&lines=700%2B+LeetCode+Problems+Solved;Full+Stack+MERN+Developer;Building+Real-World+Web+Applications;Open+to+Software+Development+Internships" />
 
 </div>
 
